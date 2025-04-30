@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "name": "hyrum",
+      "input": "test"
+    }
+  ],
+  "users": [
+    {
+      "name": "Alice",
+      "age": "30"
+    },
+    {
+      "name": "Bob",
+      "age": "25"
+    }
+  ]
+}
